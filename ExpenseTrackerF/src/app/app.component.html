@@ -1,0 +1,37 @@
+<div class="flex flex-col h-screen">
+
+  <div class="top-bar w-full bg-gray-800 text-white p-4 text-center text-2xl font-bold">
+      ExpenseTracker
+  </div>
+
+  <div class="flex flex-1">
+
+    <div class="dashboard w-1/5 bg-gray-700 text-white p-4 space-y-4">
+
+      <a routerLink="/add-expense" class="block py-3 px-4 bg-gray-800 rounded-lg hover:bg-gray-600 flex items-center transition duration-300">
+          <i class="fas fa-plus-circle mr-2"></i> Add Expense
+      </a>
+
+      <a routerLink="/expense-list" class="block py-3 px-4 bg-gray-800 rounded-lg hover:bg-gray-600 flex items-center transition duration-300">
+          <i class="fas fa-list mr-2"></i> Expense List
+      </a>
+
+      <a routerLink="/budget" class="block py-3 px-4 bg-gray-800 rounded-lg hover:bg-gray-600 flex items-center transition duration-300">
+          <i class="fas fa-chart-pie mr-2"></i> Budget
+      </a>
+
+      <a routerLink="/set-budget" class="block py-3 px-4 bg-gray-800 rounded-lg hover:bg-gray-600 flex items-center transition duration-300">
+          <i class="fas fa-cogs mr-2"></i> Set Budget
+      </a>
+
+      <a routerLink="/expense-chart" class="block py-3 px-4 bg-gray-800 rounded-lg hover:bg-gray-600 flex items-center transition duration-300">
+          <i class="fas fa-chart-pie mr-2"></i> Expenses by Category
+      </a>
+    </div>
+
+
+    <div class="content w-4/5 p-4 overflow-auto">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,24 @@
+/* Dashboard */
+.dashboard {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .dashboard-item {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .dashboard-item:hover {
+    color: #007bff;
+  }
+  
+  .dashboard-item i {
+    margin-right: 8px;
+  }
+  

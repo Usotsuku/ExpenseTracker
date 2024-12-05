@@ -1,0 +1,19 @@
+<div class="dashboard-container">
+
+  <div class="progress-container">
+
+    <div *ngIf="budgetProgress > 75" class="warning-message">
+      <p><strong>Warning:</strong> You have exceeded {{ budgetProgress > 80 ? '80%' : '75%' }} of your monthly budget!</p>
+    </div>
+
+    <div class="donut" [ngStyle]="{ 'background': getDonutBackground() }">
+      <div class="donut-text">{{ budgetProgress.toFixed(2) }}%</div>
+    </div>
+  </div>
+
+  <div class="budget-summary">
+    <p>Monthly Budget: {{ budget?.monthlyBudget | currency }}</p>
+    <p>Spent So Far: {{ spentSoFar | currency }}</p>
+    <p>Remaining Budget: {{ remainingBudget | currency }}</p>
+  </div>
+</div>

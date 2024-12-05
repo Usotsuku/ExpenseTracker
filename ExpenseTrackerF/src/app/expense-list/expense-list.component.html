@@ -1,0 +1,30 @@
+<div class="filter-container">
+  <label for="category-filter">Filter by Category:</label>
+  <select id="category-filter" [(ngModel)]="selectedCategory" (change)="filterByCategory()">
+    <option value="">All Categories</option>
+    <option *ngFor="let category of categories" [value]="category">{{ category }}</option>
+  </select>
+</div>
+
+<table class="expense-table">
+  <thead>
+    <tr>
+      <th>Expense Name</th>
+      <th>Amount</th>
+      <th>Date</th>
+      <th>Category</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let expense of filteredExpenses">
+      <td>{{ expense.title }}</td>
+      <td>{{ expense.amount | currency }}</td>
+      <td>{{ expense.date | date }}</td>
+      <td>{{ expense.category }}</td>
+      <td>
+        <button (click)="deleteExpense(expense.id)">Delete</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

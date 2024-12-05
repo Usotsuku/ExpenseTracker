@@ -1,0 +1,48 @@
+.expense-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 24px;
+}
+.expense-table th, .expense-table td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+.expense-table th {
+  background-color: #333;
+  color: white;
+}
+.expense-table button {
+  background-color: #e3342f; 
+  color: white; 
+  border: none; 
+  padding: 8px 16px; 
+  border-radius: 4px; 
+  font-size: 14px; 
+  cursor: pointer; 
+  transition: background-color 0.3s ease; 
+}
+
+.expense-table button:hover {
+  background-color: #cc1f1a; 
+}
+
+.expense-table button:active {
+  background-color: #a51912; 
+}
+.filter-container {
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.filter-container label {
+  font-weight: bold;
+}
+
+.filter-container select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

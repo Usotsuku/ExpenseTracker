@@ -1,0 +1,175 @@
+[
+  {
+    "ContainingType": "ExpenseTracker.Controllers.BudgetController",
+    "Method": "GetBudget",
+    "RelativePath": "api/Budget",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.BudgetController",
+    "Method": "SetBudget",
+    "RelativePath": "api/Budget",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "budget",
+        "Type": "ExpenseTracker.Models.Budget",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.BudgetController",
+    "Method": "UpdateBudget",
+    "RelativePath": "api/Budget",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "budget",
+        "Type": "ExpenseTracker.Models.Budget",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.BudgetController",
+    "Method": "DeleteBudget",
+    "RelativePath": "api/Budget/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.BudgetController",
+    "Method": "GetBudgetProgress",
+    "RelativePath": "api/Budget/budget-progress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "CreateExpense",
+    "RelativePath": "api/Expenses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expense",
+        "Type": "ExpenseTracker.Models.Expense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "GetAllExpenses",
+    "RelativePath": "api/Expenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "GetExpenseById",
+    "RelativePath": "api/Expenses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "DeleteExpense",
+    "RelativePath": "api/Expenses/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "UpdateExpense",
+    "RelativePath": "api/Expenses/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "expense",
+        "Type": "ExpenseTracker.Models.Expense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "GetExpensesByCategory",
+    "RelativePath": "api/Expenses/category/{category}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ExpenseTracker.Controllers.ExpensesController",
+    "Method": "GetTotalExpenses",
+    "RelativePath": "api/Expenses/totals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

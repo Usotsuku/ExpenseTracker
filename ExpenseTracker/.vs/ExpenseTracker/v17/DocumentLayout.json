@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\migrations\\20241203113458_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\migrations\\20241203113458_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|c:\\users\\aymane\\source\\repos\\expensetracker\\expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6ABC644-FE2A-4133-A0CC-BE40246108D9}|ExpenseTracker\\ExpenseTracker.csproj|solutionrelative:expensetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ExpenseTracker\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:00:41.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\BudgetController.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\BudgetController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:37:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpenseTracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:36:08.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241203113458_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Migrations\\20241203113458_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Migrations\\20241203113458_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Migrations\\20241203113458_InitialCreate.cs",
+              "RelativeToolTip": "ExpenseTracker\\Migrations\\20241203113458_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:34:59.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Budget.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Budget.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Budget.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:26:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "ExpenseTracker\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:24:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:20:02.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\Program.cs",
+              "RelativeToolTip": "ExpenseTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:54:34.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aymane\\source\\repos\\ExpenseTracker\\ExpenseTracker\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T10:53:43.101Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<div class="chart-container">
+    <h2 class="text-center">Expenses by Category</h2>
+    <div *ngIf="chartData.labels && chartData.labels.length > 0">
+      <canvas baseChart
+              [data]="chartData"
+              [options]="chartOptions"
+              [type]="'pie'">
+      </canvas>
+    </div>
+  </div>
